@@ -1,5 +1,5 @@
 # Infinite Scroll
-Javascript project demonstrating a quick loading infinite scroll function with loading animation included. 
+Vanilla Javascript project demonstrating a quick loading infinite scroll function with loading animation included. 
 
 
 ## Inbuilt  focus
